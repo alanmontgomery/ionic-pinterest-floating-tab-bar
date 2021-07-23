@@ -1,7 +1,7 @@
 # ionic-pinterest-floating-tab-bar
 An example of a Pinterest inspired style floating tab bar
 
-![Ionic React Pinterest Floating Tab Bar](https://repository-images.githubusercontent.com/362276459/b9eded00-a7bc-11eb-8ad7-33043ba3cb27)
+![Ionic React Pinterest Floating Tab Bar](https://repository-images.githubusercontent.com/388829827/0e931d9b-cdd1-4281-8cb2-f204c2f23f71)
 
 ### Included in this Ionic React Template/UI
 * Floating tab bar (Pinterest Style)
