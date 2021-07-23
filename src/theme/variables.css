@@ -234,3 +234,22 @@ http://ionicframework.com/docs/theming/ */
     --ion-card-background: #1e1e1e;
   }
 }
+
+:root {
+
+  /* Custom tab bar */
+  --tab-background: rgb(236, 236, 236);
+  --tab-color: rgb(153, 153, 153);
+  --tab-color-selected: black;
+}
+
+@media (prefers-color-scheme: dark) {
+
+  :root {
+
+    /* Custom tab bar */
+    --tab-background: rgb(53, 53, 53);
+    --tab-color: rgb(83, 83, 83);
+    --tab-color-selected: white;
+  }
+}
