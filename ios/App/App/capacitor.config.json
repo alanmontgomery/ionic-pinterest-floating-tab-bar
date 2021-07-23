@@ -1,1 +1,6 @@
-{}
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-pinterest-floating-tab-bar",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

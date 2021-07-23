@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.example.app',
+  appId: 'io.ionic.starter',
   appName: 'ionic-pinterest-floating-tab-bar',
   webDir: 'build',
   bundledWebRuntime: false

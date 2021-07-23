@@ -238,7 +238,7 @@ http://ionicframework.com/docs/theming/ */
 :root {
 
   /* Custom tab bar */
-  --tab-background: rgb(236, 236, 236);
+  --tab-background: rgb(251, 251, 251);
   --tab-color: rgb(153, 153, 153);
   --tab-color-selected: black;
 }

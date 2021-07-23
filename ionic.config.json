@@ -1,0 +1,7 @@
+{
+  "name": "ionic-pinterest-floating-tab-bar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
